@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.stickyHeader {
+  position: sticky;
+  top: 0;
+}
+video{
+  width: 40%;
+  height: 50%;
+}
